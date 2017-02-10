@@ -1,5 +1,5 @@
 # PlatformFolders [![Build Status](https://travis-ci.org/sago007/PlatformFolders.svg?branch=master)](https://travis-ci.org/sago007/PlatformFolders)
-A self contained C++ abstraction library so that you do not need to have Linux, Windows and Mac OS X specific code to look for special directories
+A C++ library to look for special directories like "My Documents" and "%APPDATA%" so that you do not need to have Linux, Windows and Mac OS X specific code
 
 Can be found at: https://github.com/sago007/PlatformFolders
 
